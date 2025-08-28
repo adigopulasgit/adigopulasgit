@@ -22,9 +22,25 @@ I'm a dedicated Computer Science graduate with hands-on experience in software d
 - 🔭 I'm currently working on **data science workflows and machine learning models**
 - 🌱 I'm currently learning **advanced machine learning techniques and cloud technologies**
 - 👯 I'm looking to collaborate on **open-source projects and AI research**
-- 💬 Ask me about **Python, Machine Learning, Web Development, or Databases**
+- 💬 Ask me about **Python, Machine Learning, Web Development, Database**
 - 📫 How to reach me: **guruganeshadigopula02@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/1aYxIAS7MB4wGc7TeJ-yKFpHaym2Q0Q7V/edit?tab=t.0)
+
+
+## 💼 Work Experience
+
+### **Data Science Intern** at [AIQure, LLC](https://aiqure.com/)
+*Aug 2025 - Present*
+
+AIQure is a healthcare AI company that develops innovative solutions for drug discovery, medical diagnosis, and treatment optimization using artificial intelligence and machine learning.
+
+**Responsibilities:**
+- Documenting workflows and contributing to reproducible pipelines for research and automation
+- Implementing ML/DL models (Scikit-learn, TensorFlow, Chemprop) for predicting binding affinities and ADMET properties
+- Building KNIME workflows to automate extraction, preprocessing, and visualization of protein-ligand interaction data
+- Designing databases in PostgreSQL to store and manage BindingDB and ADMET datasets
+- Collaborating with cross-functional teams to develop AI-powered healthcare solutions
+
 
 ## 🛠️ Technologies & Skills
 
@@ -60,12 +76,6 @@ I'm a dedicated Computer Science graduate with hands-on experience in software d
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=adigopulasgit&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adigopulasgit&layout=compact&theme=radical)
 
 ## 🚀 Projects
 
