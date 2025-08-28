@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **adigopulasgit/adigopulasgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +24,7 @@ I'm a dedicated Computer Science graduate with hands-on experience in software d
 - 👯 I'm looking to collaborate on **open-source projects and AI research**
 - 💬 Ask me about **Python, Machine Learning, Web Development, or Databases**
 - 📫 How to reach me: **guruganeshadigopula02@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://github.com/adigopulasgit/adigopulasgit/blob/main/resume.pdf)
+- 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/1aYxIAS7MB4wGc7TeJ-yKFpHaym2Q0Q7V/edit?tab=t.0)
 
 ## 🛠️ Technologies & Skills
 
@@ -92,7 +91,7 @@ I'm a dedicated Computer Science graduate with hands-on experience in software d
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adigopula-guru-ganesh-083805211/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guru-ganesh-adigopula-083805211/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guruganeshadigopula02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adigopulasgit)
 
