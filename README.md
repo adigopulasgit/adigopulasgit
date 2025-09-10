@@ -85,17 +85,17 @@ AIQure is a healthcare AI company that develops innovative solutions for drug di
 
 ## 🚀 Projects
 
-### [Cardiovascular Disease Prediction](https://github.com/adigopulasgit/cardiovascular-prediction)
+### [Cardiovascular Disease Prediction](https://github.com/adigopulasgit/cardiac_diseases_prediction/tree/master)
 - Achieved **81% accuracy** in predicting heart disease using XGBoost and AdaBoost
 - Preprocessed data to handle class imbalances
 - Technologies: Python, Scikit-learn, Matplotlib
 
-### [Facial Expression Music Player](https://github.com/adigopulasgit/facial-music-player)
+### [Facial Expression Music Player](https://github.com/adigopulasgit/music_player_using_facial_expression)
 - Music player controlled by real-time facial expression detection
 - Implemented facial recognition using OpenCV and dlib
 - Technologies: Python, OpenCV, TensorFlow
 
-### [Feature Selection with Genetic Algorithms](https://github.com/adigopulasgit/feature-selection-ga)
+### [Feature Selection with Genetic Algorithms](https://github.com/adigopulasgit/genetic-algorithm-for-feature-selectio)
 - Improved model accuracy by optimizing feature selection
 - Implemented selection, crossover, and mutation techniques
 - Technologies: Python, NumPy, Matplotlib
