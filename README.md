@@ -30,7 +30,7 @@ I'm a dedicated Computer Science graduate with hands-on experience in software d
 ## 💼 Work Experience  
 
 ### **Data Science Intern – [AIQure, LLC]**  
-*January 2025 – Present*  
+*August 2025 – Present*  
 
 AIQure is a healthcare AI company that develops innovative solutions for drug discovery, medical diagnosis, and treatment optimization using artificial intelligence and machine learning.  
 
