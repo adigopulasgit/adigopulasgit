@@ -27,19 +27,34 @@ I'm a dedicated Computer Science graduate with hands-on experience in software d
 - 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/1aYxIAS7MB4wGc7TeJ-yKFpHaym2Q0Q7V/edit?tab=t.0)
 
 
-## 💼 Work Experience
+## 💼 Work Experience  
 
-### **Data Science Intern** at [AIQure, LLC]
-*Aug 2025 - Present*
+### **Data Science Intern – [AIQure, LLC]**  
+*January 2025 – Present*  
 
-AIQure is a healthcare AI company that develops innovative solutions for drug discovery, medical diagnosis, and treatment optimization using artificial intelligence and machine learning.
+AIQure is a healthcare AI company that develops innovative solutions for drug discovery, medical diagnosis, and treatment optimization using artificial intelligence and machine learning.  
 
-**Responsibilities:**
-- Documenting workflows and contributing to reproducible pipelines for research and automation
-- Implementing ML/DL models (Scikit-learn, TensorFlow, Chemprop) for predicting binding affinities and ADMET properties
-- Building KNIME workflows to automate extraction, preprocessing, and visualization of protein-ligand interaction data
-- Designing databases in PostgreSQL to store and manage BindingDB and ADMET datasets
-- Collaborating with cross-functional teams to develop AI-powered healthcare solutions
+**Key Contributions:**  
+- Engineered scalable data pipelines integrating **BindingDB**, **TDC**, and **PubChem** with automated validation in Python + SQL, improving dataset reliability by **35%** and reducing ingestion time.  
+- Optimized **LightGBM** and **Chemprop** models through **Optuna-based hyperparameter tuning** and **RDKit feature engineering**, boosting R² by **14%** and cutting featurization runtime by **22%**.  
+- Built a **Retrieval-Augmented Generation (RAGOps)** framework using **Hugging Face**, **FAISS**, and **PostgreSQL** for biomedical search & summarization, achieving **90%+ query relevance** with <200 ms retrieval latency.  
+- Automated visualization and reporting pipelines (MAE, RMSE, ROC-AUC, PRC) using **Matplotlib** + **Tableau**, improving interpretability and decision support.  
+- Deployed ML workflows following **MLOps best practices** — MLflow tracking, Dockerized FastAPI services, and Jenkins CI/CD — ensuring reproducible, high-uptime model delivery.  
+
+---
+
+### **Junior Software Engineer – [eSmartChip Solutions]**  
+*August 2022 – December 2023*  
+
+**Key Contributions:**  
+- Developed and deployed Python-based automation frameworks for firmware validation, regression testing, and sensor calibration — reducing manual QA effort by **40%** across embedded devices.  
+- Built end-to-end data ingestion and transformation pipelines to capture telemetry from **UART**, **SPI**, and **I²C** interfaces and store structured results in SQL, enabling rapid root-cause analysis.  
+- Integrated device telemetry with analytics dashboards using **REST APIs** and **MQTT/HTTP** streams, providing real-time visibility into production performance and test metrics.  
+- Collaborated with firmware and DevOps teams to implement **CI/CD hooks (Git + Jenkins)** for automated build verification and test reporting.  
+- Prototyped and validated **IoT edge modules** emphasizing data reliability, error handling, and secure device-to-cloud connectivity via **AWS IoT Core**.  
+- Enhanced documentation and debugging workflows under Linux, leveraging **Git**, **unit testing**, and **log-parsing utilities** for faster issue resolution.  
+
+  
 
 
 ## 🛠️ Technologies & Skills
