@@ -93,6 +93,18 @@ AIQure is a healthcare AI company that develops innovative solutions for drug di
 
 ## 🚀 Projects
 
+### RAGOps Pipeline for Drug Discovery
+- Architected a large-scale RAG system integrating BindingDB, TDC, and PubChem (~1M+ records)
+- Implemented FAISS-based semantic vector search with <200ms retrieval latency
+- Achieved 90%+ biomedical query relevance
+- Technologies: Python, FAISS, HuggingFace, PostgreSQL, Streamlit
+
+### Molecular Property Prediction Pipeline
+- Built ML pipeline for ADMET prediction using Chemprop and LightGBM
+- Improved R² by 14% through hyperparameter tuning and feature engineering
+- Achieved RMSE ≈ 0.51 and ROC-AUC > 0.80 on benchmark datasets
+- Technologies: Python, RDKit, Optuna
+
 ### [Cardiovascular Disease Prediction](https://github.com/adigopulasgit/cardiac_diseases_prediction/tree/master)
 - Achieved **81% accuracy** in predicting heart disease using XGBoost and AdaBoost
 - Preprocessed data to handle class imbalances
@@ -107,18 +119,6 @@ AIQure is a healthcare AI company that develops innovative solutions for drug di
 - Improved model accuracy by optimizing feature selection
 - Implemented selection, crossover, and mutation techniques
 - Technologies: Python, NumPy, Matplotlib
-
-### RAGOps Pipeline for Drug Discovery
-- Architected a large-scale RAG system integrating BindingDB, TDC, and PubChem (~1M+ records)
-- Implemented FAISS-based semantic vector search with <200ms retrieval latency
-- Achieved 90%+ biomedical query relevance
-- Technologies: Python, FAISS, HuggingFace, PostgreSQL, Streamlit
-
-### Molecular Property Prediction Pipeline
-- Built ML pipeline for ADMET prediction using Chemprop and LightGBM
-- Improved R² by 14% through hyperparameter tuning and feature engineering
-- Achieved RMSE ≈ 0.51 and ROC-AUC > 0.80 on benchmark datasets
-- Technologies: Python, RDKit, Optuna
 
 ## 📚 Education
 
